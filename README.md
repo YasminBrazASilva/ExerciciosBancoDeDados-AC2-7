@@ -4,8 +4,7 @@ Exercícios para AC2 da matéria de Banco de Dados do 2º semestre de ADS
 ### ETAPA 1:
 
 Reproduza a base de dados apresentada no slide 21 da AULA 9<br>
-* Modelo conceitual:<br>
-A criação das tabelas pode ser vista em: [Exercicio7_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-7/blob/main/Exercicio7_1.sql)
+* A criação das tabelas pode ser vista em: [Exercicio7_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-7/blob/main/Exercicio7_1.sql)
 
 ![ExercicioTela7_1_1.png](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-7/blob/main/ExercicioTela7_1_1.png)
 ![ExercicioTela7_1_2.png](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-7/blob/main/ExercicioTela7_1_2.png)
