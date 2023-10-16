@@ -1,5 +1,5 @@
 -- Cria uma view que mostra todos os produtos e suas marcas e fornecedores
- -- CREATE OR REPLACE VIEW vw_produtos_marcas_fornecedores AS 
+  CREATE OR REPLACE VIEW vw_produtos_marcas_fornecedores AS 
 	SELECT *
       FROM produtos AS p
            LEFT JOIN marcas AS m
